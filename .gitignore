@@ -1,0 +1,10 @@
+#Ignore everything
+*
+
+#But not these files
+!.gitignore
+!README.md
+
+!*/mods
+!options.txt
+!servers.dat
