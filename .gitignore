@@ -1,10 +1,13 @@
-#Ignore everything
-*
+#Ignore all files&folders in directory
+/*
 
-#But not these files
+#Git related
 !.gitignore
 !README.md
 
-!*/mods
+#folders
+!mods/
+
+#files
 !options.txt
 !servers.dat
